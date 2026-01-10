@@ -16,6 +16,17 @@
 - **Dark/Light Theme**: Customizable accent colors
 - **Auto-save**: Local storage persistence
 
+## Screenshots
+
+### English Interface
+<img src="/public/novelflow-en.png" alt="NovelFlow English Interface" width="1200"/>
+
+### Chinese Interface
+<img src="/public/novelflow-zh.png" alt="NovelFlow Chinese Interface" width="1200"/>
+
+### Other Languages
+<img src="/public/novelflow-other.png" alt="NovelFlow Other Languages" width="1200"/>
+
 ## Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite, Tailwind CSS
