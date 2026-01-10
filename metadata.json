@@ -1,0 +1,5 @@
+{
+  "name": "NovelFlow",
+  "description": "A professional fiction writing environment inspired by Novelcrafter. Features a dedicated Codex (Wiki) system that integrates deeply with Gemini AI to maintain story consistency, character voice, and world-building rules during generation.",
+  "requestFramePermissions": []
+}
