@@ -1,7 +1,7 @@
 {
   "name": "novelflow",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "tauri:dev": "npm run tauri dev",
     "tauri:build": "npm run tauri build",
+    "tauri:build:portable": "cd tauri/target/release && powershell Compress-Archive -Path novelflow.exe,resources -DestinationPath NovelFlow_0.0.1_x64_portable.zip -Force",
     "tauri": "tauri"
   },
   "dependencies": {
